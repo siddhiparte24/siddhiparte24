@@ -63,11 +63,5 @@ Here are some ideas to get you started:
     />
   </a>
 
-</p>"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-
 </p>
+
