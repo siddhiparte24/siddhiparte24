@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hello 👋
 
 ## About Me
 
-- 📚 Currently pursuing degree in Information Technolgy Engineering
+- 📚 Currently pursuing degree in Computer Engineering
 -  🖤 Like to work in Backend
 -  🛠 Currently learning Python frameworks
 
